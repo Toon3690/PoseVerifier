@@ -10,7 +10,7 @@ let targetLabel;
 
 function keyPressed() {
     if (key == 's') {
-        brain.saveData();
+        brain.saveData('posesData');
     } else {
         targetLabel = key;
         console.log(targetLabel);
