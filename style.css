@@ -1,0 +1,23 @@
+
+
+h1{
+    width: 100%;
+}
+/*video{
+    width: 48%;
+}
+script{
+    width: 48%;
+}*/
+
+video{
+    display: inline-block;
+
+    
+}
+
+div{
+    display: inline-block;
+
+}
+
